@@ -21,7 +21,7 @@ if(isset($_POST['submit'])){
     <meta name="description" content="">
     <meta name="author" content="">
 
-    <title>School Management Login </title>
+    <title>College Management Login </title>
 
     <!-- Bootstrap Core CSS -->
     <link href="../bower_components/bootstrap/dist/css/bootstrap.min.css" rel="stylesheet">
