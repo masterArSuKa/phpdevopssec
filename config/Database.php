@@ -2,7 +2,7 @@
 class Database {
 	private $_connection;
 	private static $_instance; //The single instance
-	private $_host = "db1.cqn8jr4zs6zp.us-east-1.rds.amazonaws.com";
+	private $_host = "finl.cqn8jr4zs6zp.us-east-1.rds.amazonaws.com";
 	private $_username = "root";
 	private $_password = "12345678";
 	private $_database = "schoolmanagement";
